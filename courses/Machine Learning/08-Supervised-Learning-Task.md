@@ -1,4 +1,4 @@
-![image](https://github.com/ariankazemii/cs-internship-spec/assets/87134472/80ce4403-d13e-4f0d-a3e6-75fddb07f034)## Step 8. Supervised Learning Task
+## Step 8. Supervised Learning Task
 
 ### Guideline
 
